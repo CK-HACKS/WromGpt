@@ -1,5 +1,5 @@
 {
-  "api_key": "YOUR_APIKEY_OPENROUTER(EX:skxxxx)",
+  "api_key": "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",
   "base_url": "https://openrouter.ai/api/v1",
   "model": "deepseek/deepseek-chat-v3-0324:free",
   "language": "English"
